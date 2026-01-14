@@ -20,13 +20,9 @@ Teknologi yang Digunakan
 • JavaScript untuk logika perhitungan, pengolahan data, dan visualisasi grafik
 
 Cara Menjalankan Aplikasi
-
 Unduh atau clone repository ini
-
 Buka file index.html menggunakan browser
-
 Isi data harian sesuai kondisi
-
 Lihat hasil analisis, grafik, dan riwayat stres
 
 Struktur Folder
@@ -37,5 +33,4 @@ Struktur Folder
 Tujuan Pengembangan
 Memberikan solusi sederhana untuk pemantauan tingkat stres berbasis aktivitas sehari hari serta meningkatkan kesadaran pengguna terhadap pentingnya keseimbangan antara istirahat dan aktivitas.
 
-Catatan
-Aplikasi ini bersifat edukatif dan tidak menggantikan diagnosis profesional di bidang kesehatan mental.
+CatatanAplikasi ini bersifat edukatif dan tidak menggantikan diagnosis profesional di bidang kesehatan mental.
